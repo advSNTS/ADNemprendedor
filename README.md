@@ -63,4 +63,4 @@ node main.js
 
 
 ## Compatibilidad  
-Este programa ha sido probado en **Ubuntu**. Puede funcionar en otros sistemas operativos, pero no se garantiza su correcto desempeño fuera de este entorno.
+Este programa ha sido probado en **Ubuntu** y **Windows 11**. Puede funcionar en otros sistemas operativos, pero no se garantiza su correcto desempeño fuera de este entorno.
